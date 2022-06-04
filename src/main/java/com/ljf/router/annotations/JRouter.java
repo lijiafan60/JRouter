@@ -1,4 +1,4 @@
-package annotations;
+package com.ljf.router.annotations;
 
 import java.lang.annotation.*;
 
